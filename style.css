@@ -153,3 +153,11 @@ video{
         transform: translateY(877%);
     }
 }
+@media(max-width:321px){
+    .transfer1{
+        transform: translateY(-805%);
+    }
+    .transfer2{
+        transform: translateY(805%);
+    }
+}
